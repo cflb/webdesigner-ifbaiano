@@ -12,8 +12,7 @@ Aqui você vai encontrar todo material construído em sala de aula
 2. Link para manual de CSS3 - http://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf
 
 ## MANUAL JavaScript - W3C
-2. Link para manual de JavaScript - http://www.w3c.br/pub/Cursos/CursoCSS3/css-web.pdf
-
+3. JavaScript (Mozilla Foundation) - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
 
 # Links Uteis para aprofudamento 
-1. JavaScript (Mozilla Foundation) - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide
+1. Curso Caelum (HTML, CSS e JavaScript) - https://www.caelum.com.br/download/caelum-html-css-javascript.pdf
