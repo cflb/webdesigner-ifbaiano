@@ -1,0 +1,16 @@
+
+body { 
+    background-color: #9d9d9d;
+}
+
+#cor_verde {
+    color: white;
+    background-color: green;
+    border: 5px dotted white;
+}
+
+#cor_branca {
+    color: green;
+    background-color: white;
+    font-size: 12px;
+}
